@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>789343181108-tk6jn6clo5r027dqgsg0vagkuca8bdha.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.789343181108-tk6jn6clo5r027dqgsg0vagkuca8bdha</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBilhTPGuDNT1eR0ZMPS6eZtkEs2_X1JNY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>789343181108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.izisoft.p021haquaa</string>
+	<key>PROJECT_ID</key>
+	<string>p21haqua</string>
+	<key>STORAGE_BUCKET</key>
+	<string>p21haqua.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:789343181108:ios:9d8a13f7262330dc4ded61</string>
+	<key>DATABASE_URL</key>
+	<string>https://p21haqua-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

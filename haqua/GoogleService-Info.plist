@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>992101836378-aqml2gu512mi5hfl35m3h4q267d81oap.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.992101836378-aqml2gu512mi5hfl35m3h4q267d81oap</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>992101836378-8ntnck475u8stbl5ntfn6lphgveaen1t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBexmC1zKBJHDtVsQKZd9dAqb4BCEg0mNQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>992101836378</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.izisoft.p021haquaa</string>
+	<key>PROJECT_ID</key>
+	<string>p21haqua-2173a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>p21haqua-2173a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:992101836378:ios:81fad70538a3ba28b19a63</string>
+</dict>
+</plist>

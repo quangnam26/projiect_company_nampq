@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "992101836378",
+    "project_id": "p21haqua-2173a",
+    "storage_bucket": "p21haqua-2173a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992101836378:android:647069fbe7207e82b19a63",
+        "android_client_info": {
+          "package_name": "io.izisoft.p021haquaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992101836378-8ntnck475u8stbl5ntfn6lphgveaen1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p021haquaa",
+            "certificate_hash": "c0082cd0eb19b1c65a682b71d9e9312d2d51e767"
+          }
+        },
+        {
+          "client_id": "992101836378-qk61hfbvlhbijtv3rf7hqnfufs9smaqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1m3ncalw3fm9QkyLnp-I6yeOrdaaulS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992101836378-qk61hfbvlhbijtv3rf7hqnfufs9smaqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992101836378-43in63t7b7la7focaspuqr96t977n4l2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p021haquaa.ImageNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

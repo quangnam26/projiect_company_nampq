@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "p21haqua",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "p21haqua (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "p21haqua (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "izi_checkbox_grouped-1.8.1-izi",
+            "cwd": "izi_checkbox_grouped-1.8.1-izi",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "izi_checkbox_grouped-1.8.1-izi (profile mode)",
+            "cwd": "izi_checkbox_grouped-1.8.1-izi",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "izi_checkbox_grouped-1.8.1-izi (release mode)",
+            "cwd": "izi_checkbox_grouped-1.8.1-izi",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
