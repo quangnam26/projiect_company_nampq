@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "353051682231",
+    "project_id": "p24ecommerce",
+    "storage_bucket": "p24ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353051682231:android:b1fee944dcfb06608cb432",
+        "android_client_info": {
+          "package_name": "io.izisoft.p24ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353051682231-k01189va18bsghrhh34v1vd05v00n3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzmN2BJgPubD0dzmLiSPMc1xOWtddx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353051682231-k01189va18bsghrhh34v1vd05v00n3hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353051682231-rchertolq28cu3hs43fkdjksq88p8cho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.p24ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
