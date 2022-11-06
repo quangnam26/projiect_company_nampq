@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180822514706",
+    "project_id": "p23dpfood",
+    "storage_bucket": "p23dpfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180822514706:android:5243afafbb73daa9af8ccb",
+        "android_client_info": {
+          "package_name": "io.izisoft.p23dpfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180822514706-gfmbc8upefpoovjetcnlbo0ajfbhd2a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCke0A18Z4spPufQXZfHAm-pixOelOd-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180822514706-gfmbc8upefpoovjetcnlbo0ajfbhd2a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
