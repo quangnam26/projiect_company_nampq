@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1015886942893",
+    "project_id": "supertransport-80388",
+    "storage_bucket": "supertransport-80388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015886942893:android:e1c1d0c38e1b6779a9ac24",
+        "android_client_info": {
+          "package_name": "io.izisoft.p22supertransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015886942893-sbo6oj6vltfce3glcepbaivtrhkms8qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.izisoft.p22supertransport",
+            "certificate_hash": "b54299898258af48cd9982379c903d666ee84978"
+          }
+        },
+        {
+          "client_id": "1015886942893-h576mc51lqfmncgairmgus6pkni5stnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9b6dQVXVXyKEBpVfHj5FgnMIA67N3PFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015886942893-h576mc51lqfmncgairmgus6pkni5stnq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015886942893-5miflj2deagklal835420b8ti4mqod1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.izisoft.supertransport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

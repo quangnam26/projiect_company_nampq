@@ -1,0 +1,31 @@
+// ignore_for_file: public_member_api_docs, sort_constructors_first
+import 'dart:convert';
+import '../user/user_response.dart';
+
+class AuthResponse {
+  String? accessToken;
+  UserResponse? user;
+  AuthResponse({
+    this.accessToken,
+    this.user,
+  });
+  
+
+  Map<String, dynamic> toMap() {
+    return <String, dynamic>{
+      'accessToken': accessToken,
+      'user': user?.toMap(),
+    };
+  }
+
+  factory AuthResponse.fromMap(Map<String, dynamic> map) {
+    return AuthResponse(
+      accessToken: map['accessToken'] != null ? map['accessToken'] as String : null,
+      user: map['user'] != null ? UserResponse.fromMap(map['user'] as Map<String,dynamic>) : null,
+    );
+  }
+
+  String toJson() => json.encode(toMap());
+
+  factory AuthResponse.fromJson(String source) => AuthResponse.fromMap(json.decode(source) as Map<String, dynamic>);
+}
